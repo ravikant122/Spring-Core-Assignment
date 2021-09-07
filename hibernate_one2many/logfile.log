@@ -1,0 +1,134 @@
+INFO  | 2021-09-07 07:52:25 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 07:52:25 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 07:52:25 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 07:52:25 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 07:52:25 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 07:52:25 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 07:52:25 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 07:52:25 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 07:52:25 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 07:52:25 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 07:52:46 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 07:52:46 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 07:52:46 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 07:52:46 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 07:52:46 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 07:52:46 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 07:52:46 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 07:52:46 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 07:52:46 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 07:52:47 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 07:53:48 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 07:53:48 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 07:53:48 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 07:53:48 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 07:53:48 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 07:53:48 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 07:53:48 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 07:53:48 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 07:53:48 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 07:53:49 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 07:56:03 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 07:56:03 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 07:56:03 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 07:56:03 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 07:56:03 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 07:56:03 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 07:56:03 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 07:56:03 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 07:56:03 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 07:56:03 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 07:56:15 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 07:56:15 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 07:56:15 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 07:56:15 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 07:56:15 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 07:56:15 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 07:56:15 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 07:56:15 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 07:56:15 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 07:56:16 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 07:56:57 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 07:56:57 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 07:56:57 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 07:56:58 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 07:56:58 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 07:56:58 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 07:56:58 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 07:56:58 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 07:56:58 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 07:56:58 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 07:57:58 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 07:57:58 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 07:57:58 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 07:57:58 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 07:57:58 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 07:57:58 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 07:57:58 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 07:57:58 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 07:57:58 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 07:57:59 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 07:59:50 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 07:59:50 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 07:59:50 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 07:59:50 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 07:59:50 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 07:59:50 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 07:59:50 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 07:59:50 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 07:59:50 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 07:59:51 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 08:00:30 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 08:00:30 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 08:00:30 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 08:00:31 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 08:00:31 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 08:00:31 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 08:00:31 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 08:00:31 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 08:00:31 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 08:00:31 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 08:14:48 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 08:14:48 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 08:14:48 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 08:14:48 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 08:14:48 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 08:14:48 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 08:14:48 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 08:14:48 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 08:14:48 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 08:14:49 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 08:15:33 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 08:15:33 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 08:15:33 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 08:15:34 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 08:15:34 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 08:15:34 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 08:15:34 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 08:15:34 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 08:15:34 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 08:15:34 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 08:16:02 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 08:16:02 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 08:16:02 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 08:16:02 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 08:16:02 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 08:16:02 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 08:16:02 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 08:16:02 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 08:16:02 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 08:16:03 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 08:16:03 | [main] internal.DdlTransactionIsolatorNonJtaImpl (DdlTransactionIsolatorNonJtaImpl.java:47) - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4efcf8a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+ERROR | 2021-09-07 08:16:04 | [main] internal.ExceptionMapperStandardImpl (ExceptionMapperStandardImpl.java:39) - HHH000346: Error during managed flush [org.hibernate.TransientObjectException: object references an unsaved transient instance - save the transient instance beforeQuery flushing: com.one2many.Category]
+INFO  | 2021-09-07 08:16:50 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2021-09-07 08:16:50 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+WARN  | 2021-09-07 08:16:50 | [main] stax.LocalXmlResourceResolver (LocalXmlResourceResolver.java:91) - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+INFO  | 2021-09-07 08:16:50 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2021-09-07 08:16:50 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:70) - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+INFO  | 2021-09-07 08:16:50 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:126) - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hibernate]
+INFO  | 2021-09-07 08:16:50 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:135) - HHH10001001: Connection properties: {user=root, password=****}
+INFO  | 2021-09-07 08:16:50 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:140) - HHH10001003: Autocommit mode: false
+INFO  | 2021-09-07 08:16:50 | [main] internal.PooledConnections (PooledConnections.java:41) - HHH000115: Hibernate connection pool size: 10 (min=1)
+INFO  | 2021-09-07 08:16:50 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2021-09-07 08:16:51 | [main] internal.DdlTransactionIsolatorNonJtaImpl (DdlTransactionIsolatorNonJtaImpl.java:47) - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@379ab47b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+INFO  | 2021-09-07 08:16:51 | [main] internal.DriverManagerConnectionProviderImpl (DriverManagerConnectionProviderImpl.java:230) - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hibernate]

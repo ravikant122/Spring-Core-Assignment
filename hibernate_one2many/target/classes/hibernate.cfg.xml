@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<!-- database connection setting -->
+		<!-- it will use these to establish a connection -->
+		<property name="connection.url">jdbc:mysql://localhost:3306/hibernate</property>
+		<property name="connection.username">root</property>
+		<property name="connection.password">root</property>
+		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="hibernate.dialect">org.hibernate.dialect.MySQL57Dialect</property>
+		<!-- dialect = how hibernate will generate query, in which form 
+			if dialect = mysql - then queries will be generated according to mysql
+			if dialect = postgres - then queries will be generated according to postgres
+			
+			this gives database portablity 
+			if in future we've to shift from one database vendor to another 
+			then we just have to change dialect
+			
+			but if we've used jdbc then we've to change queries
+			mysql queries to postgres queries
+			
+		-->
+		
+		<!-- disable the second level cache -->
+		<property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property>
+
+		<!-- show sql commands in console in a format -->
+		<property name="show_sql">true</property>
+		<property name="format_sql">true</property>
+
+		<!-- 
+			update = use already existed table, if not available then it will create new one
+				   = if we change table structure then also it won't create a new table
+				   = it will just make changes it existing table
+					
+			create = drop old table if existed, create new table always
+
+			create-drop (test) = create new table and then drop at the end of operation 
+
+			validate (prod) = if table structure and pojo(entity class) structure are same then 
+								operation is going to be executed otherwise it will give error
+						it doesn't create table by itself and also doesn't drop any table ever
+		 -->
+		<property name="hibernate.hbm2ddl.auto">update</property>
+		
+		<!-- jdbc connection pool build in (no of threads in pool = 10  or pool size = 10)-->
+		<property name="connection.pool_size">10</property>
+		
+		<!-- <property name="current_session_context_class">thread</property> -->
+		
+		<mapping class="com.one2many.Animal" />
+		<mapping class="com.one2many.Category" />
+		
+	</session-factory>
+</hibernate-configuration>
